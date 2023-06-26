@@ -83,14 +83,11 @@
         <div>Bachelor's Degree in Computer Science  @  <a href="https://www.unical.it/" target="_blank">UNICAL</a></div>
     </div>
 
-    <h2 class="mb-4">Additional Experience</h2>
+    <h2 class="mb-4">Courses and Certifications</h2>
 
-    {{#each experience}}
+    {{#each courses}}
     <div class="mb-4">
-        <h3 class="fs-4 fw-normal">{{ header }}</h3>
-
         {{{markdown contents }}}
-
         <div>
             {{#each skills }}
             <span class="badge text-body border border-1">{{ this }}</span>
