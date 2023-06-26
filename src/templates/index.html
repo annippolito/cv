@@ -59,16 +59,15 @@
 
     <div class="border-bottom border-2 border-print-0 border-dark mb-5 pb-5 pb-print-0 mb-print-1">
         <h2 class="mb-4">Professional Experience</h2>
-        {{#each positions}}
+        {{#each experiences}}
         <div class="row d-block d-md-flex{{#unless @last}} mb-5{{/unless}}">
             <div class="col-md-2 pt-1">
                 {{ period }}
             </div>
             <div class="col-md-10">
-                <h3 class="fs-4 fw-normal">{{ title }}</h3>
-
+                <h3 class="fs-4 fw-normal">{{ company }}</h3>
+                <p class="fs-5 fw-normal">{{ role }}</p>
                 <div>{{{markdown contents }}}</div>
-
                 <p>
                     {{#each skills }}
                     <span class="badge text-body border border-1">{{ this }}</span>
@@ -81,7 +80,7 @@
 
     <div class="border-bottom border-2 border-print-0 border-dark mb-5 pb-5 pb-print-0 mb-print-1">
         <h2 class="mb-4">Education</h2>
-        <div>King Edward VI Grammar School in Stratford-upon-Avon [1571 - 1578]</div>
+        <div>Bachelor's Degree in Computer Science  @  <a href="https://www.unical.it/" target="_blank">UNICAL</a></div>
     </div>
 
     <h2 class="mb-4">Additional Experience</h2>

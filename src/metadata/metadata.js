@@ -21,29 +21,48 @@ module.exports = {
     ['Javascript', 70],
     ['Angular', 30],
   ],
-  positions: [
+  experiences: [
     {
-      title: 'Hamlet',
-      period: 'Likely early 17th century',
-      skills: ['tragedy', 'philosophy', 'death'],
+      company: 'Alpian',
+      role: 'Backend Developer',
+      period: 'May 2022 - Present',
+      skills: ['Java', 'Kotlin', 'Go', 'Protocol Buffers', 'Springboot', 'Quarkus', 'gRPC', 'GCP', 'Postgresql', 'Docker', 'Openshift'],
       contents: `
-Prince Hamlet is visited by his father's ghost and ordered to avenge his father's murder by killing King Claudius, his uncle. After struggling with several questions, including whether what the ghost said is true and whether it is right for him to take revenge, Hamlet, along with almost all the other major characters, is killed.
+      
+* Develop new features on the ISP Fideuram CRM
+* Developed a procedure management service for Legal entities
+* Developed an integration service to ISP Fideuram services
+* Developed a monitoring service to send Customer onboarding events to a postgres database
+
+It is my first experience in some new technologies such as the Google cloud, gRPC calls and Protocol Buffers.
 `
     },
     {
-      title: 'Twelfth Night',
-      period: '1600 – 1601',
-      skills: ['comedy', 'love'],
+      company: 'Altran Spa',
+      role: 'Backend Developer, IT Consultant for Expedia Group',
+      period: 'Nov 2020 – May 2022',
+      skills: ['Java', 'Springboot', 'AWS', 'Dynamodb', 'Lambda', 'GraphQL', 'Docker', 'Kubernetes'],
       contents: `
-Viola finds herself shipwrecked in Illyria and, assuming that her brother Sebastian has died in the wreck, disguises herself as a man to gain a position in Duke Orsino's court. Orsino sends Viola (whom he knows as Cesario) to deliver a message to his love, Olivia. Olivia, however, dislikes the Duke. She falls in love with Viola, who she thinks is a man. Eventually, Viola's brother Sebastian, who in fact was unharmed in the wreck, reappears. At a critical moment, Viola's true identity is revealed when members of the court notice the similarities between her and Sebastian. Olivia quickly falls in love with Sebastian, and Viola confesses her love for the Duke.
+As Backend Developer consultant at Expedia Group I was building a new brand site in collaboration with Unesco for the sustainable tourism.With my team we provided a form to be used by hotel owners to subscribe their own business and to have a certification released for sustainability.
+
+In that occasion I had the opportunity to play a lot with AWS components.
 `
     },
     {
-      title: 'The Tragedy of Romeo and Juliet',
-      period: '1595–1596, with a possible early draft written in 1591',
-      skills: ['tragedy', 'death', 'love'],
+      company: 'Expedia Group - Hotels.com',
+      role: 'Backend Developer',
+      period: 'Nov 2018 - Nov 2020',
+      skills: ['Java', 'Springboot', 'AWS', 'Graphite', 'Grafana', 'Splunk', 'Docker', 'Kubernetes'],
       contents: `
-In Verona, Italy, two families, the Montagues and the Capulets, are in the midst of a bloody feud. Romeo, a Montague, and Juliet, a Capulet, fall in love and struggle to maintain their relationship in the face of familial hatred. After Romeo kills Juliet's cousin Tybalt in a fit of passion, things fall apart. Both lovers eventually commit suicide within minutes of each other, and the feuding families make peace over their recent grief.
+Worked as backend developer in a small agile team for the Customer Retention.
+
+* Developed a greenfield microservice to manage the Customers newsLetter
+* Developed new feature on a Coupon tool used to generate and validate customer booking coupons
+* Maintain the Customer Profile page
+* Monitor applications with Dropwizard, Graphite, Grafana
+* Migrate some other services on the AWS cloud
+
+It was my first experience in doing Continuous Integration and also in delivering an AWS cloud.
 `
     }
   ],
