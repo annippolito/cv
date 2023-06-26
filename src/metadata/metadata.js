@@ -1,13 +1,11 @@
 module.exports = {
-  name: 'William Shakespeare',
-  title: 'Poet, playwright and actor',
+  name: 'Annibale Ippolito',
+  title: 'Software Engineer',
   facts: {
-    'Residence': '<a href="https://www.google.com/maps/place/London,+UK/@51.5285582,-0.2416814,11z/data=!3m1!4b1!4m5!3m4!1s0x47d8a00baf21de75:0x52963a5addd52a99!8m2!3d51.5072178!4d-0.1275862"><i class="fa fa-home fact-icon"></i>London</a>',
-    'Wiki': `<a href="https://en.wikipedia.org/wiki/William_Shakespeare">
-                  <i class="fa-brands fa-wikipedia-w fact-icon"></i>William_Shakespeare
-                </a>`,
-    'Twitter': `<a href="https://twitter.com/shakespeare"><i class="fa-brands fa-twitter fact-icon"></i>Shakespeare</a>`,
-    'Email': '<a href="mailto:wil64@yahoo.com"><i class="fa fa-envelope fact-icon"></i>wil64@yahoo.com</a>'
+    'Residence': '<a href="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d2829.433052677951!2d15.959006230106796!3d39.481600571229784!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sit!2sit!4v1687761879646!5m2!1sit!2sit"><i class="fa fa-home fact-icon"></i>Acquappesa, Italy</a>',
+    'Linkedin': `<a href="https://www.linkedin.com/in/annibale-ippolito-81532193/"><i class="fab fa-linkedin fact-icon"></i>annibale-ippolito</a>`,
+    'Github': `<a href="https://github.com/annippolito"><i class="fab fa-github fact-icon"></i>annippolito</a>`,
+    'Email': '<a href="mailto:annibaleippolito@gmail.com"><i class="fa fa-envelope fact-icon"></i>annibaleippolito@gmail.com</a>'
   },
   skills: [
     ['Comedy', 100],
