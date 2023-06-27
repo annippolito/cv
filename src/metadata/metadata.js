@@ -2,10 +2,11 @@ module.exports = {
   name: 'Annibale Ippolito',
   title: 'Software Developer Engineer',
   facts: {
-    'Residence': '<a href="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d2829.433052677951!2d15.959006230106796!3d39.481600571229784!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sit!2sit!4v1687761879646!5m2!1sit!2sit"><i class="fa fa-home fact-icon"></i>Acquappesa, Italy</a>',
+    'Residence': '<a href="https://goo.gl/maps/js4Ukttg93tTjpzj8"><i class="fa fa-home fact-icon"></i>Acquappesa, Italy</a>',
     'Linkedin': `<a href="https://www.linkedin.com/in/annibale-ippolito-81532193/"><i class="fab fa-linkedin fact-icon"></i>annibale-ippolito</a>`,
     'Github': `<a href="https://github.com/annippolito"><i class="fab fa-github fact-icon"></i>annippolito</a>`,
-    'Email': '<a href="mailto:annibaleippolito@gmail.com"><i class="fa fa-envelope fact-icon"></i>annibaleippolito@gmail.com</a>'
+    'Email': '<a href="mailto:annibaleippolito@gmail.com"><i class="fa fa-envelope fact-icon"></i>annibaleippolito@gmail.com</a>',
+    'Phone': '<a href="tel:+393921672716"><i class="fa fa-phone fact-icon"></i>+39 3921672717</a>'
   },
   skills: [
     ['Java', 100],
