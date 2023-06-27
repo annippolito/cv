@@ -29,23 +29,23 @@ module.exports = {
       skills: ['Java', 'Kotlin', 'Go', 'Protocol Buffers', 'Springboot', 'Quarkus', 'gRPC', 'GCP', 'Quartz', 'Postgresql', 'Docker', 'Openshift'],
       contents: `
       
-* Develop new features on the **ISP Fideuram CRM** system.
+* Develop new features on the ISP Fideuram CRM system.
 * Developed a procedure management service for Legal entities.
-* Developed an integration service to **ISP Fideuram** services.
+* Developed an integration service to ISP Fideuram services.
 * Developed a monitoring service to send Customer onboarding events to a postgres database.
 
-It is my first experience in some new technologies such as the **Google cloud**, **gRPC calls** and **Protocol Buffers**.
+This is my first experience in some new technologies such as the Google cloud, gRPC calls and Protocol Buffers.
 `
     },
     {
-      company: 'Altran Spa',
+      company: 'Altran Italia Spa',
       role: 'Backend Developer, IT Consultant for Expedia Group',
       period: 'Nov 2020 – May 2022',
       skills: ['Java', 'Springboot', 'AWS', 'Dynamodb', 'Lambda', 'GraphQL', 'Docker', 'Kubernetes'],
       contents: `
-As Backend Developer consultant at **Expedia Group** I was building a new brand site in collaboration with **Unesco** for the sustainable tourism. With my team we provided a form to be used by hotel owners to subscribe their own business and to have a certification released for sustainability.
+As Backend Developer consultant at Expedia Group I was building a new brand site in collaboration with Unesco for the sustainable tourism. With my team we provided a form to be used by hotel owners to subscribe their own business and to have a certification released for sustainability.
 
-In that occasion I had the opportunity to play a lot with **AWS** components.
+In that occasion I had the opportunity to play a lot with AWS components.
 `
     },
     {
@@ -54,12 +54,12 @@ In that occasion I had the opportunity to play a lot with **AWS** components.
       period: 'Nov 2018 - Nov 2020',
       skills: ['Java', 'Springboot', 'AWS', 'Graphite', 'Grafana', 'Splunk', 'Docker', 'Kubernetes'],
       contents: `
-Worked as Backend developer in a small **agile team** for the **Customer Retention**.
+Worked as Backend developer in a small agile team for the Customer Retention.
 
-* Developed a greenfield microservice to manage the Customers **newsletter**.
+* Developed a greenfield microservice to manage the Customers newsletter.
 * Developed new feature on a Coupon tool used to generate and validate customer booking coupons.
 * Maintain the Customer Profile page.
-* Monitor applications with **Dropwizard, Graphite, Grafana** tools.
+* Monitor applications with Dropwizard, Graphite, Grafana tools.
 * Migrate some other services on the AWS cloud.
 
 It was my first experience in doing Continuous Integration and also in delivering an AWS cloud.
@@ -71,8 +71,8 @@ It was my first experience in doing Continuous Integration and also in deliverin
       period: 'Dec 2017 - Nov 2018',
       skills: ['Architecture Design', 'SOA', 'Java', 'Soap', 'Websphere', 'Spring', 'Oracle'],
       contents: `
-I had the chance to work at **BNL** and support several teams in design applications and guide developers on how to use technologies in banking projects.
-This experience was really good to me to have hands on **design architecture** in a team of architects.
+I had the chance to work at BNL and support several teams in design applications and guide developers on how to use technologies in banking projects.
+This experience was really good to me to have hands on design architecture in a team of architects.
 `
     },
     {
@@ -81,13 +81,13 @@ This experience was really good to me to have hands on **design architecture** i
       period: 'Apr 2016 - Nov 2017',
       skills: ['SOA', 'Java', 'Soap', 'Websphere', 'Spring', 'Oracle', 'Angular', 'Typescript', 'HTML', 'CSS', 'Javascript'],
       contents: `
-I worked on a couple of banking projects in BNL as consultant and I had the opportunity also to **Lead** a small team of 3. 
+I worked on a couple of core business projects in BNL as consultant and I had the opportunity also to Lead a small team of 3. 
 Also I collaborated on the development on the frontend and the backend.
 
 Projects developed:
 
-* **Scadenziere** : it is a Calendar where users logged in can put a reminder for their deadlines and upload documents with an expiration date. The expiration date is used after to send a reminder.
-* **Credit biz** : it is a Web application where users can ask for a loan from the bank.
+* Scadenziere : it is a Calendar where users logged in can put a reminder for their deadlines and upload documents with an expiration date. The expiration date is used after to send a reminder.
+* Credit biz : it is a Web application where users can ask for a loan from the bank.
 `
     },
     {
@@ -98,10 +98,10 @@ Projects developed:
       contents: `
 I was working for a small consultant company but I had the opportunity to work as a third parties consultant in several areas.
 
-* **GOLDBET BOS (Betting on Smartphone)** : I contributed to the development of the betting app for **goldbet.it**. It is a web application downloadable by the google play store or apple store. The core of the frontend was written in **angularjs** and the backend (not provided by my team) was exposing Rest api.
-* **SPID** : It is a web portal to manage digital identities for legal entities and individuals in Italy. I developed two modules of the web portal: one was dedicated to the registration steps for new users and the second module was dedicated to manage and verify the identities saved by the backoffice.
-* **AdamVAS** : It was a project to manage users in the **Wind intranet**. I worked as full stack developer using **angularjs** on the frontend and **Spring MVC** on the backend.
-* **BNL IT (www.bnl.it)** : I worked for the first time as agile developer in a **Scrum team**. For the most of the project my contribution was on the frontend.
+* GOLDBET BOS (Betting on Smartphone) : I contributed to the development of the betting app for goldbet.it. It is a web application downloadable by the google play store or apple store. The core of the frontend was written in angularjs and the backend (not provided by my team) was exposing Rest api.
+* SPID : It is a web portal to manage digital identities for legal entities and individuals in Italy. I developed two modules of the web portal: one was dedicated to the registration steps for new users and the second module was dedicated to manage and verify the identities saved by the backoffice.
+* AdamVAS : It was a project to manage users in the Wind intranet. I worked as full stack developer using angularjs on the frontend and Spring MVC on the backend.
+* BNL IT (www.bnl.it) : I worked for the first time as agile developer in a Scrum team. For the most of the project my contribution was on the frontend.
 `
     },
     {
