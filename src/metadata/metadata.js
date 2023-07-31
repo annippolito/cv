@@ -1,6 +1,6 @@
 module.exports = {
   name: 'Annibale Ippolito',
-  title: 'Software Developer Engineer',
+  title: 'Senior Software Engineer',
   facts: {
     'Residence': '<a href="https://goo.gl/maps/js4Ukttg93tTjpzj8"><i class="fa fa-home fact-icon"></i>Acquappesa, Italy</a>',
     'Linkedin': `<a href="https://www.linkedin.com/in/annibaleippolito/"><i class="fab fa-linkedin fact-icon"></i>annibale-ippolito</a>`,
@@ -25,26 +25,27 @@ module.exports = {
   experiences: [
     {
       company: 'Alpian',
-      role: 'Backend Developer',
+      role: 'Senior Software Engineer (backend)',
       period: 'May 2022 - Present',
       skills: ['Java', 'Kotlin', 'Go', 'Protocol Buffers', 'Springboot', 'Quarkus', 'gRPC', 'GCP', 'Quartz', 'Postgresql', 'Docker', 'Openshift'],
       contents: `
-      
-* Develop new features on the ISP Fideuram CRM system.
-* Developed a procedure management service for Legal entities.
-* Developed an integration service to ISP Fideuram services.
-* Developed a monitoring service to send Customer onboarding events to a postgres database.
+As a Senior Software Engineer I'm giving my contribute to:
+
+* Developing new features on the ISP Fideuram CRM system.
+* Developing a procedure management service for Legal entities.
+* Developing an integration service to ISP Fideuram services.
+* Developing a monitoring service to send Customer onboarding events to a postgres database.
 
 This is my first experience in some new technologies such as the Google cloud, gRPC calls and Protocol Buffers.
 `
     },
     {
       company: 'Altran Italia Spa',
-      role: 'Backend Developer, IT Consultant for Expedia Group',
+      role: 'Advanced Consultant (Senior Backend Developer at Expedia Group)',
       period: 'Nov 2020 – May 2022',
       skills: ['Java', 'Springboot', 'AWS', 'Dynamodb', 'Lambda', 'GraphQL', 'Docker', 'Kubernetes'],
       contents: `
-As Backend Developer consultant at Expedia Group I was building a new brand site in collaboration with Unesco for the sustainable tourism. With my team we provided a form to be used by hotel owners to subscribe their own business and to have a certification released for sustainability.
+As a Senior Backend Developer consultant at Expedia Group I was building a new brand site in collaboration with Unesco for the sustainable tourism. With my team we provided a form to be used by hotel owners to subscribe their own business and to have a certification released for sustainability.
 
 In that occasion I had the opportunity to play a lot with AWS components.
 `
