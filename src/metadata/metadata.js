@@ -6,7 +6,7 @@ module.exports = {
     'Linkedin': `<a href="https://www.linkedin.com/in/annibaleippolito/"><i class="fab fa-linkedin fact-icon"></i>annibale-ippolito</a>`,
     'Github': `<a href="https://github.com/annippolito"><i class="fab fa-github fact-icon"></i>annippolito</a>`,
     'Email': '<a href="mailto:annibaleippolito@gmail.com"><i class="fa fa-envelope fact-icon"></i>annibaleippolito@gmail.com</a>',
-    'Phone': '<a href="tel:+393921672716"><i class="fa fa-phone fact-icon"></i>+39 3921672717</a>'
+    'Phone': '<a href="tel:+393921672716"><i class="fa fa-phone fact-icon"></i>+39 3921672716</a>'
   },
   skills: [
     ['Java', 100],
