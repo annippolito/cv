@@ -24,19 +24,32 @@ module.exports = {
   ],
   experiences: [
     {
+      company: 'Freelance',
+      role: 'Senior Software Engineer (fullstack)',
+      period: 'Jan 2024 - Present',
+      skills: ['Java', 'Protocol Buffers', 'Rest', 'Springboot', 'Quarkus', 'gRPC', 'Azure', 'Quartz', 'MongoDB', 'Docker', 'React'],
+      contents: `
+As a Senior Software Engineer I'm giving my contribute in building a user dossier in Illimity Bank.
+I'm main focused on the backend development, where we have many microservices built in Springboot and Quarkus on top of MongoDB collections. 
+The communication is in gRPC infra-services and Rest between backend and frontend, where also I contribute using React.
+
+This is my first experience in using Azure, MongoDB and React.
+`
+    },
+    {
       company: 'Alpian',
       role: 'Senior Software Engineer (backend)',
-      period: 'May 2022 - Present',
+      period: 'May 2022 - Dec 2023',
       skills: ['Java', 'Kotlin', 'Go', 'Protocol Buffers', 'Springboot', 'Quarkus', 'gRPC', 'GCP', 'Quartz', 'Postgresql', 'Docker', 'Openshift'],
       contents: `
-As a Senior Software Engineer I'm giving my contribute to:
+As a Senior Software Engineer I contributed to:
 
 * Developing new features on the ISP Fideuram CRM system.
 * Developing a procedure management service for Legal entities.
 * Developing an integration service to ISP Fideuram services.
 * Developing a monitoring service to send Customer onboarding events to a postgres database.
 
-This is my first experience in some new technologies such as the Google cloud, gRPC calls and Protocol Buffers.
+This is was my first experience in some new technologies such as the Google cloud, gRPC calls and Protocol Buffers.
 `
     },
     {
