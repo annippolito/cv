@@ -1,24 +1,22 @@
-name: Publish to GH Pages
-on:
-  push:
-    branches:
-      - main
+name: Build and Deploy
+on: [push]
+permissions:
+  contents: write
 jobs:
-  build:
-    runs-on: macos-latest
-    permissions:
-      contents: write
+  build-and-deploy:
+    runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v4
-    - name: Setup Node
-      uses: actions/setup-node@v1
-      with:
-        node-version: '18.x'
-    - run: npm install
-    - run: npm run build
-    - name: Deploy
-      uses: JamesIves/github-pages-deploy-action@releases/v4
-      with:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        BRANCH: gh-pages
-        folder: dist
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install and Build
+        run: |
+          npm ci
+          npm run build
+
+      - name: Deploy
+        uses: JamesIves/github-pages-deploy-action@v4
+        with:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          branch: gh-pages
+          folder: dist
