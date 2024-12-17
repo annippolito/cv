@@ -24,7 +24,7 @@ module.exports = {
   ],
   experiences: [
     {
-      company: 'Hictech,
+      company: 'Hictech',
       role: 'Senior Software Engineer (Invoiced - VAT Number)',
       period: 'Jan 2024 - Present',
       skills: ['Java', 'Protocol Buffers', 'Rest', 'Springboot', 'Quarkus', 'gRPC', 'Azure', 'Quartz', 'MongoDB', 'Docker', 'React'],
