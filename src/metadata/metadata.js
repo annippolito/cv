@@ -24,16 +24,28 @@ module.exports = {
   ],
   experiences: [
     {
+      company: 'Agilelab',
+      role: 'Senior Software Engineer (Invoiced - VAT Number)',
+      period: 'March 2025 - Present',
+      skills: ['Java', 'BPMN', 'Rest', 'Soap', 'Springboot', 'Scala', 'Azure', 'Docker', 'Wiremock'],
+      contents: `
+As a Senior Software Engineer I'm giving my contribute building new business flows on jbpm using java and Springboot.
+Also I have the chance to study and learn on the job Scala and Pekko actor system to help the development of a specific bpmn product built in scala.
+
+This is my first experience in Scala
+`
+    },
+    {
       company: 'Hictech',
       role: 'Senior Software Engineer (Invoiced - VAT Number)',
-      period: 'Jan 2024 - Present',
+      period: 'Jan 2024 - Feb 2025',
       skills: ['Java', 'Protocol Buffers', 'Rest', 'Springboot', 'Quarkus', 'gRPC', 'Azure', 'Quartz', 'MongoDB', 'Docker', 'React'],
       contents: `
-As a Senior Software Engineer I'm giving my contribute in building a user dossier in Illimity Bank.
-I'm main focused on the backend development, where we have many microservices built in Springboot and Quarkus on top of MongoDB collections. 
-The communication is in gRPC infra-services and Rest between backend and frontend, where also I contribute using React.
+As a Senior Software Engineer contributed in building a customer dossier in Illimity Bank.
+I was main focused on the backend development, where we built microservices in Springboot and Quarkus on top of MongoDB collections.
+The communication was in gRPC infra-services and Rest between backend and frontend, where also I contribute using React.
 
-This is my first experience in using Azure, MongoDB and React.
+This was my first experience using Azure, MongoDB and React.
 `
     },
     {
@@ -49,7 +61,7 @@ As a Senior Software Engineer I contributed to:
 * Developing an integration service to ISP Fideuram services.
 * Developing a monitoring service to send Customer onboarding events to a postgres database.
 
-This is was my first experience in some new technologies such as the Google cloud, gRPC calls and Protocol Buffers.
+This was my first experience in some of new technologies such as the Google cloud, gRPC calls and Protocol Buffers.
 `
     },
     {
